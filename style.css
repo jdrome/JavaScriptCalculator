@@ -1,6 +1,9 @@
 body {
     margin: 0;
     display: flex; /* flex box */
+    justify-content: center; /* horizontal alignment */
+    align-items: center; /* vertical alignment */
+    height: 100vh; /* 100vh sets height to be 100% of viewport height */
 }
 
 #calculator {
