@@ -43,3 +43,13 @@ button {
     font-weight: bold;
     cursor: pointer;
 }
+
+/* Change color of buttons on hover */
+button:hover {
+    background-color: hsl(0, 0%, 40%);
+}
+
+/* Change color of buttons to be even lighter on click */
+button:active {
+    background-color: hsl(0, 0%, 50%);
+}
