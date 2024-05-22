@@ -54,6 +54,17 @@ button:active {
     background-color: hsl(0, 0%, 50%);
 }
 
+/* Make operator buttons orange */
 .operator-btn {
     background-color: hsl(35, 100%, 55%);
+}
+
+/* Make operator button color get lighter on hover */
+.operator-btn:hover {
+    background-color: hsl(35, 100%, 65%);
+}
+
+/* Make operator button color get even lighter on click */
+.operator-btn:active {
+    background-color: hsl(35, 100%, 75%);
 }
