@@ -1,6 +1,6 @@
 // Calculator Program
 
-const display = document.getElementByUd("display");
+const display = document.getElementById("display");
 
 function appendToDisplay(input) {
     display.value += input;
