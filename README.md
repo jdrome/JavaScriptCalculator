@@ -28,7 +28,7 @@ To run this project, you only need a web browser.
 ### Installation
 1. Clone the repository to your local machine:
     ```sh
-    git clone https://github.com/yourusername/JavaScript-Calculator.git
+    git clone https://github.com/jdrome/JavaScript-Calculator.git
     ```
 
 2. Navigate to the project directory:
